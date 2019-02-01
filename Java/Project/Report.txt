@@ -1,0 +1,5 @@
+3302_GroupNumber 1_ProjectProposal
+Roman Nepyyvoda, Dmytro Bondarchuk
+
+This project was developed with all members being physically present in one location. All portions of code were worked on and discussed together.
+
