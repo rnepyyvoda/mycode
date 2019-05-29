@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 090ce46bb503b2d72afc33c44b9be37bbc2eb2d4 Andrew Murray <amurray@bowvalleycollege.ca> 1532101438 -0600	branch: Created from HEAD
-090ce46bb503b2d72afc33c44b9be37bbc2eb2d4 64812a010399f68ffc444404892e8c99c17323ee Andrew Murray <amurray@bowvalleycollege.ca> 1532103933 -0600	commit: Abstract classes and herbivores done
-64812a010399f68ffc444404892e8c99c17323ee e50fbd0833cf9735169ab6ed7a3ec6017473fd44 Andrew Murray <amurray@bowvalleycollege.ca> 1532103964 -0600	commit: Tweaking values for impala and elephant
-e50fbd0833cf9735169ab6ed7a3ec6017473fd44 7e97626062453b7374aa2bbf7b91af6e6c16f84b Andrew Murray <amurray@bowvalleycollege.ca> 1532105276 -0600	commit: Carnivores fleshed out
-7e97626062453b7374aa2bbf7b91af6e6c16f84b 894828a92e5fc095e1a6a7a9ffac493028db44f5 Andrew Murray <amurray@bowvalleycollege.ca> 1532107570 -0600	commit: Tweaking values, adding some helper methods for locations
-894828a92e5fc095e1a6a7a9ffac493028db44f5 2aca1479722ed505fbf9a011c8431f51406a09e0 Andrew Murray <amurray@bowvalleycollege.ca> 1532112502 -0600	commit: Sample solution more or less complete

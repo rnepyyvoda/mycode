@@ -1,9 +1,0 @@
-0000000000000000000000000000000000000000 00aeccc538884c40eaf825a866e7a4258565e0a8 Andrew Murray <amurray@bowvalleycollege.ca> 1532101122 -0600	commit (initial): Initial commit
-00aeccc538884c40eaf825a866e7a4258565e0a8 4fd7797cc751c2fc95236f30856ccbba013d4555 Andrew Murray <amurray@bowvalleycollege.ca> 1532101246 -0600	commit: Removing constructor from Animal. Entire class should is now correct
-4fd7797cc751c2fc95236f30856ccbba013d4555 00aeccc538884c40eaf825a866e7a4258565e0a8 Andrew Murray <amurray@bowvalleycollege.ca> 1532101261 -0600	reset: moving to HEAD~1
-00aeccc538884c40eaf825a866e7a4258565e0a8 c09b6c4acdb5dfe5b71a19dc325ffd81553179f3 Andrew Murray <amurray@bowvalleycollege.ca> 1532101289 -0600	commit: Removing constructor from Animal. Entire class should is now correct
-c09b6c4acdb5dfe5b71a19dc325ffd81553179f3 090ce46bb503b2d72afc33c44b9be37bbc2eb2d4 Andrew Murray <amurray@bowvalleycollege.ca> 1532101406 -0600	commit: Removing some white space from animal. Starter code done.
-090ce46bb503b2d72afc33c44b9be37bbc2eb2d4 2aca1479722ed505fbf9a011c8431f51406a09e0 Andrew Murray <amurray@bowvalleycollege.ca> 1532112523 -0600	merge attempt1: Fast-forward
-2aca1479722ed505fbf9a011c8431f51406a09e0 894828a92e5fc095e1a6a7a9ffac493028db44f5 Andrew Murray <amurray@bowvalleycollege.ca> 1532112549 -0600	reset: moving to HEAD~1
-894828a92e5fc095e1a6a7a9ffac493028db44f5 090ce46bb503b2d72afc33c44b9be37bbc2eb2d4 Andrew Murray <amurray@bowvalleycollege.ca> 1532112568 -0600	reset: moving to 090ce46bb503b2d72afc33c44b9be37bbc2eb2d4
-090ce46bb503b2d72afc33c44b9be37bbc2eb2d4 a8717c1567c03065a145a6d7d305d58f1ed6ba88 Andrew Murray <amurray@bowvalleycollege.ca> 1532112910 -0600	commit: Updating starter code for issues encountered during assignment test run
