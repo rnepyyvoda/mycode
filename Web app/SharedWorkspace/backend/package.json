@@ -12,6 +12,6 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "mssql": "^4.3.2",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
